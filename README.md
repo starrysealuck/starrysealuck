@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## 🌱 I’m currently learning in South China Normal University, majoring communication engineering. Next year, I will pursue master's degree in Sun Yat-Sen University.
 <!--
 **starrysealuck/starrysealuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
