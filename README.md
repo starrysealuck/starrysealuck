@@ -41,13 +41,13 @@
 <img src="https://img.shields.io/badge/-ROS-563D7C?style=flat-square&logo=ros"/>
 <!-- <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/> -->
 </p>
-
-<!-- 贪吃蛇 - 图片有 actions/Generate Snake 定时生成 -->
+<!--贪吃蛇-- -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
-  <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/starrysealuck/starrysealuck/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/starrysealuck/starrysealuck/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/starrysealuck/starrysealuck/output/github-contribution-grid-snake.svg">
 </picture>
+
 
 <!--
 **starrysealuck/starrysealuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
